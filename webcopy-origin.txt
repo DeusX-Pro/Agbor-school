@@ -646,16 +646,16 @@ Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/twitter-x.png
 File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\twitter-x.png
 Content Type: image/png
 
-Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/footer-Logo.png
-File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\footer-Logo.png
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/footer-agborlogo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\footer-agborlogo.png
 Content Type: image/png
 
-Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/logo.png
-File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\logo.png
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/agborlogo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\agborlogo.png
 Content Type: image/png
 
-Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/white-logo.png
-File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\white-logo.png
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/white-agborlogo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\white-agborlogo.png
 Content Type: image/png
 
 Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/aos.js
