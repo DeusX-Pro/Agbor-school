@@ -23,7 +23,7 @@ File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v
 Content Type: font/ttf
 
 Uri: https://lovely-bavarois-b19658.netlify.app/
-File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\index.htm
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\index.html
 Content Type: text/html
 
 Uri: https://lovely-bavarois-b19658.netlify.app/about-us
