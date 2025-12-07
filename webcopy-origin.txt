@@ -1,0 +1,768 @@
+Uri: https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LA.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LA.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LA.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LA.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LA.ttf
+Content Type: font/ttf
+
+Uri: https://lovely-bavarois-b19658.netlify.app/
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/about-us
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\about-us.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/academics
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\academics.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/admission
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\admission.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/alumni
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\alumni.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/application-form
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\application-form.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/header.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\header.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\boxicons.woff
+Content Type: application/font-woff
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/uicons-thin-rounded.eot
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\uicons-thin-rounded.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/uicons-thin-rounded.woff
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\uicons-thin-rounded.woff
+Content Type: application/font-woff
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/fonts/uicons-thin-rounded.woff2
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\fonts\uicons-thin-rounded.woff2
+Content Type: font/woff2
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/about-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\about-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/about-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\about-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/about-image-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\about-image-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/about-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\about-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/academic-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\academic-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/academic-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\academic-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/academic-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\academic-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/academic-image-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\academic-image-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/activities-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\activities-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/activities-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\activities-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/activities-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\activities-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/admin-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\admin-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/bg-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\bg-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/bg-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\bg-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-6.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-6.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-7.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-7.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-8.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-8.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-banner.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-banner.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/blog-details.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\blog-details.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/campus-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\campus-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/course-video.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\course-video.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-10.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-10.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-11.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-11.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-6.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-6.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-7.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-7.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-8.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-8.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/courses-image-9.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\courses-image-9.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/events-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\events-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/events-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\events-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/events-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\events-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-6.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-6.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-7.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-7.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/faculty-8.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\faculty-8.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/favicon.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\favicon.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/feature-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\feature-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/fitness-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\fitness-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/fitness-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\fitness-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/gallery-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\gallery-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/gallery-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\gallery-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/gallery-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\gallery-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/gallery-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\gallery-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/gallery-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\gallery-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/graduate-area.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\graduate-area.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/graduate-img-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\graduate-img-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/graduate-img.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\graduate-img.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/news-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\news-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/news-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\news-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/news-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\news-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/news-image-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\news-image-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/news-image-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\news-image-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/program-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\program-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/program-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\program-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/shape-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\shape-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/shape-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\shape-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/shape-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\shape-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/shape-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\shape-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/single-details-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\single-details-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/single-details-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\single-details-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/sponcer-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\sponcer-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/student-activites.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\student-activites.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/subscribe-area.jpg
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\subscribe-area.jpg
+Content Type: image/jpeg
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/subscribe-image-bg.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\subscribe-image-bg.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/success-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\success-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/success-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\success-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/success-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\success-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/Success-video-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\Success-video-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/teacher-img.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\teacher-img.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/university-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\university-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/university-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\university-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/university-life.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\university-life.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/user-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\user-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/user-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\user-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/user-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\user-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/user-image.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\user-image.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/all-img/video-image.jpg
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\all-img\video-image.jpg
+Content Type: image/jpeg
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/bg-Image-1.jpg
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\bg-Image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/bg-Image-2.jpg
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\bg-Image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/Image.jpg
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\Image.jpg
+Content Type: image/jpeg
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-10.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-10.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-11.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-11.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-12.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-12.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-13.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-13.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-14.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-14.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-15.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-15.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-16.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-16.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-17.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-17.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-18.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-18.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-19.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-19.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-20.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-20.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-4.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-4.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-5.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-5.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-6.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-6.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-7.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-7.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-8.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-8.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/banner/section-image-9.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\banner\section-image-9.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/active.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\active.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/education-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\education-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/education-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\education-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/education-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\education-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/faculty-icon-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\faculty-icon-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/faculty-icon-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\faculty-icon-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/features-icon-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\features-icon-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/features-icon-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\features-icon-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/icon-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\icon-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/icon-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\icon-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/icon-3.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\icon-3.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/reading-2.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\reading-2.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/shape-1.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\shape-1.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/trophy-star.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\trophy-star.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/icon/twitter-x.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\icon\twitter-x.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/footer-Logo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\footer-Logo.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/img/logo/white-logo.png
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\img\logo\white-logo.png
+Content Type: image/png
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lovely-bavarois-b19658.netlify.app/blog-details
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\blog-details.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/contact-us
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\contact-us.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/courses
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\courses.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/courses-details
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\courses-details.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/date-deadlines
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\date-deadlines.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/faculty
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\faculty.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/financial-aid
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\financial-aid.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/fitness-athletics
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\fitness-athletics.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/graduate
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\graduate.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/how-to-apply
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\how-to-apply.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/index2
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\index2.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/index3
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\index3.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/news-and-blog
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\news-and-blog.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/online-education
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\online-education.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/schedule-tour
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\schedule-tour.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/student-activities
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\student-activities.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/support-guidance
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\support-guidance.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/the-campus-experience
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\the-campus-experience.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/tuition-fees
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\tuition-fees.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/undergraduate
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\undergraduate.html
+Content Type: text/html
+
+Uri: https://lovely-bavarois-b19658.netlify.app/university-life
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\university-life.html
+Content Type: text/html
+
