@@ -719,7 +719,7 @@ File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\graduate.h
 Content Type: text/html
 
 Uri: https://lovely-bavarois-b19658.netlify.app/how-to-apply
-File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\how-to-apply.html
+File Name: C:\Downloaded Web Sites\lovely-bavarois-b19658.netlify.app\admission.html
 Content Type: text/html
 
 Uri: https://lovely-bavarois-b19658.netlify.app/index2
