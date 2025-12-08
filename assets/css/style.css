@@ -402,7 +402,7 @@ Top Navbar Area CSS
 Banner Area CSS
 =================================================*/
 .big-bg-1{
-  background-image: url(../img/banner/Image.jpg);
+  background-image: url(../../6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -3691,7 +3691,7 @@ Quick Search CSS
 =================================================*/
 
 .quick-search{
-  background-image: url(../img/all-img/bg-image.png);
+  background-image: url();
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
