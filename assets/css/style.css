@@ -4634,7 +4634,7 @@ Section Banner Area CSS
 Subscribe Area CSS
 =================================================*/
 .subscribe-area{
-  background-image: url(../img/all-img/subscribe-area.jpg);
+  background-image: url(../../12.jpg);
   background-size: cover;
   position:relative;
   background-repeat: no-repeat;
